@@ -1,7 +1,7 @@
 {
   "update_release": {
-    "build": 9,
-    "url": "https://github.com/hdoonline/hdotv/releases/download/v1.1.4/hdotv-1.1.4.apk",
+    "build": 10,
+    "url": "https://github.com/chenjipo/myvod/releases/download/myvod/MyVod_2.0.2.apk",
     "contents": "There is a new update, please download to experience.",
     "force_update": true
   },
