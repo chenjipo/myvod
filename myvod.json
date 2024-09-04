@@ -9,7 +9,7 @@
     "player_apk_url": "https://ustv.s3-accelerate.amazonaws.com/applist/Player/player_v2.apk",
     "player_version_build": 18,
     "player_is_install_force": false,
-    "force_player": true
+    "force_player": false
   },
   "switch_player_config": {
     "package_name": "com.drama.simpleplayer",
@@ -17,7 +17,7 @@
     "apk_url": "https://github.com/hdoonline/dramaplayer/releases/download/v1.0.5/dramaplayer-1.0.5.apk",
     "store_url": "https://play.google.com/store/apps/details?id=com.drama.simpleplayer",
     "version_build": 1,
-    "force_player": true,
+    "force_player": false,
     "app_name": "Drama Player"
   }
 }
