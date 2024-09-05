@@ -7,7 +7,7 @@
   },
   "app_player_config": {
     "player_apk_url": "https://ustv.s3-accelerate.amazonaws.com/applist/Player/player_v2.apk",
-    "player_version_build": 18,
+    "player_version_build": 20,
     "player_is_install_force": false,
     "force_player": false
   },
