@@ -1,7 +1,7 @@
 {
   "update_release": {
     "build": 11,
-    "url": "https://github.com/chenjipo/myvod/releases/download/myvod/MyVod_203.apk",
+    "url": "https://github.com/chenjipo/myvod/releases/download/v2.0.3/MyVod_203.apk",
     "contents": "There is a new update, please download to experience.",
     "force_update": true
   },
