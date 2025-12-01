@@ -1,0 +1,35 @@
+{
+  "update_release": {
+    "build": 11,
+    "url": "https://github.com/chenjipo/myvod/releases/download/v2.0.3/MyVod_203.apk",
+    "contents": "There is a new update, please download to experience.",
+    "force_update": false
+  },
+  "app_player_config": {
+    "player_apk_url": "https://ustv.s3-accelerate.amazonaws.com/applist/Player/player_v2.apk",
+    "player_version_build": 19,
+    "player_is_install_force": false,
+    "force_player": true
+  },
+  "switch_player_config": {
+    "package_name": "com.drama.simpleplayer",
+    "activity_name": "com.drama.simpleplayer.PlayerActivity",
+    "apk_url": "https://github.com/chenjipo/myplayer/releases/download/MyPlayer/MyPlayer_110.apk",
+    "store_url": "https://play.google.com/store/apps/details?id=com.drama.simpleplayer",
+    "version_build": 1,
+    "force_player": true,
+    "app_name": "Drama Player",
+    "sleep_priority_links": 3000,
+    "priority_links": [
+      "SERVER F1",
+      "SERVER F2",
+      "SERVER C1",
+      "SERVER C2",
+      "SERVER A1",
+      "SERVER A2"
+    ]
+  },
+ 
+  
+  "tmdb_api_key": "8a1227b5735a7322c4a43a461953d4ff"
+}
