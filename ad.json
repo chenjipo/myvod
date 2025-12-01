@@ -1,0 +1,22 @@
+{"ads_inapp_remote": {
+    "enabled": false,
+    "modal": {
+      "enabled": false,
+      "delay_seconds": 30,
+      "content": {
+        "image_url": "https://raw.githubusercontent.com/chenjipo/myvod/main/myvod_logo.png",
+        "title": "MyVod",
+        "description": "MyVod",
+        "cta_text": "Contact Now",
+        "cta_link": "https://example.com/sale"
+      }
+    },
+    "floating": {
+      "enabled": false,
+      "position": "top_right",
+      "content": {
+        "image_url": "https://raw.githubusercontent.com/chenjipo/myvod/main/myvod_logo.png",
+        "cta_link": "https://example.com/info"
+      }
+    }
+  }}
