@@ -3,7 +3,7 @@
     "build": 11,
     "url": "https://github.com/chenjipo/myvod/releases/download/v2.0.3/MyVod_203.apk",
     "contents": "There is a new update, please download to experience.",
-    "force_update": true
+    "force_update": false
   },
   "app_player_config": {
     "player_apk_url": "https://ustv.s3-accelerate.amazonaws.com/applist/Player/player_v2.apk",
