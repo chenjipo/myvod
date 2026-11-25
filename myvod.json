@@ -1,7 +1,7 @@
 {
   "update_release": {
-    "build": 12,
-    "url": "https://ustv.s3-accelerate.amazonaws.com/applist/Movie/MyVod_2.0.4.apk",
+    "build": 13,
+    "url": "https://ustv.s3-accelerate.amazonaws.com/applist/Movie/MyVod_2.0.5.apk",
     "contents": "There is a new update, please download to experience.",
     "force_update": true
   },
